@@ -4,3 +4,4 @@
 -方式一：蓝奏云
 ```
 链接：[]https://lanzous.com/ibw7upa 密码: f1ec
+> [ https://github.com/yanue/V2rayU/releases] （https://github.com/yanue/V2rayU/releases
